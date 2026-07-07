@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: c485062
+_src_path: https://github.com/python-project-templates/base.git
+add_docs: false
+add_extension: python
+add_wiki: false
+email: t.paine154@gmail.com
+github: tkp-aliases
+project_description: Alias for fsspec-polars
+project_name: polars-fsspec
+python_version_primary: '3.11'
+team: the fsspec-polars authors
