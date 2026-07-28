@@ -1,4 +1,4 @@
-from polars_fsspec import *  # noqa
+from polars_fsspec import *
 
 
 def test_all():
